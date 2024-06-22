@@ -1,0 +1,7 @@
+# .gitattributes file
+* text=auto
+
+# Set the line ending style for specific files or patterns
+*.js text eol=lf
+*.json text eol=lf
+*.css text eol=lf
